@@ -1,0 +1,16 @@
+# Sitemap for Abel Eyasu Portfolio
+# Generated for SEO optimization
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /css/
+Allow: /js/
+Disallow: /admin
+Disallow: /.git
+Disallow: /node_modules
+
+Sitemap: https://abeleyasu.dev/sitemap.xml
+
+# Crawl delay for bots
+Crawl-delay: 1

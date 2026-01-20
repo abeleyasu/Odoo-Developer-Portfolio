@@ -1,0 +1,24 @@
+{
+  "name": "abel-eyasu-portfolio",
+  "version": "1.0.0",
+  "description": "Premium Odoo Developer Portfolio - 5 Years of Excellence",
+  "author": "Abel Eyasu",
+  "license": "MIT",
+  "scripts": {
+    "dev": "live-server --port=8000",
+    "build": "echo 'Build process - optimize assets'",
+    "deploy": "echo 'Ready for production deployment'"
+  },
+  "keywords": [
+    "odoo",
+    "developer",
+    "portfolio",
+    "erp",
+    "web-development",
+    "python"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abeleyasu/odoo-developer-portfolio"
+  }
+}
