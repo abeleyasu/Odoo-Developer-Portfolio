@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "live-server --port=8000",
-    "build": "echo 'Build process - optimize assets'",
+    "build": "echo 'Static site - no build required'",
     "deploy": "echo 'Ready for production deployment'"
   },
   "keywords": [
